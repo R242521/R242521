@@ -13,4 +13,6 @@ E-mail -------------- > Privado
 Estado -------------- > Santa Catarina
 
 
-Grade [Uploading ebook-informatica-vespertino.pdf…]()
+Matriz Curricular Do Meu Curso Técnico
+
+https://unisatc.com.br/wp-content/uploads/2022/06/ebook-informatica-vespertino.pdf
