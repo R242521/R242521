@@ -13,6 +13,10 @@
 - Estado > Santa Catarina
 - =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-### Matriz Curricular Do Meu Curso Técnico
+### Matriz Curricular Do Meu Curso Técnico De Informática
 
 https://unisatc.com.br/wp-content/uploads/2022/06/ebook-informatica-vespertino.pdf
+
+- =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+#dancing #brazil #carnaval #dancing dog #dancing with dog 
