@@ -1,16 +1,16 @@
-### Hi there 👋
+Olá, meu nome é Rafael 
 
-<!--
-**R242521/R242521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ensino Fundamental I  = Completo
+Ensino Fundamental II = Completo
+Ensino Médio          = Em Andamento
+Ensino Técnico        = Em Andamento
+Ensino Superior       = ------------
 
-Here are some ideas to get you started:
+Escola -------------- > SATC
+Idade  -------------- > 17 Anos
+Cidade -------------- > Privado
+E-mail -------------- > Privado
+Estado -------------- > Santa Catarina
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Grade [Uploading ebook-informatica-vespertino.pdf…]()
